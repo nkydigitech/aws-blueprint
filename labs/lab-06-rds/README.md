@@ -1,6 +1,6 @@
 # Lab 6: RDS — Managed Databases
 
-> **The Robot Librarian** — You say "I need MySQL." AWS handles patches, backups, and 2 AM crashes.
+> **The Robot Librarian** — You say "I need MySQL." AWS handles patches, backups, and 3 AM crashes.
 
 ---
 
@@ -11,7 +11,7 @@
 - Create a database and table
 - Understand Multi-AZ and Read Replicas
 
-**The Analogy:** Instead of hiring a human librarian to manage your filing cabinets (install patches, make backups at 2 AM, fix crashes when they happen), AWS gives you a robot librarian. You just say "I need MySQL" and the robot handles everything — including making a copy of all files in a second building (Multi-AZ) in case the first one burns down.
+**The Analogy:** Instead of hiring a human librarian to manage your filing cabinets (install patches, make backups at 3 AM, fix crashes when they happen), AWS gives you a robot librarian. You just say "I need MySQL" and the robot handles everything — including making a copy of all files in a second building (Multi-AZ) in case the first one burns down.
 
 ---
 
